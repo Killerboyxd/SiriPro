@@ -14,7 +14,7 @@
 
  `` ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─`` 
 
-- Get your [Necessary Variables](https://github.com/golujha9936/SiriPro/blob/Master/sample.env)
+- Get your [Necessary Variables](https://github.com/Killerboyxd/SiriPro/blob/Master/sample.env)
 - Upgrade and Update by :
  `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
