@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3><img  style="align-item" :"center" src="https://telegra.ph/file/f29bb60ccda9309411a14.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐀𝐑𝐘𝐀𝐍+𝐎𝐖𝐍𝐄𝐑+🖤+🥀"></b></h3>
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/f29bb60ccda9309411a14.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐒𝐇𝐈𝐕+𝐎𝐖𝐍𝐄𝐑+🖤+🥀"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
@@ -45,6 +45,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
     </details>
 
 # 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 💗🥀
-<a href="https://t.me/FAKE_ARYAN"><img title="Telegram" src="https://img.shields.io/badge/Evo^xᴅ 𓆩🇮🇳𓆪-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/ll_SABKA_BHAI_KILLER_ll"><img title="Telegram" src="https://img.shields.io/badge/Sʜɪᴠ^ʀᴀᴍ 𓆩🇮🇳𓆪-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
-<a href="https://heroku.com/deploy?template=https://github.com/golujha9936/SiriPro"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
+<a href="https://heroku.com/deploy?template=https://github.com/Killerboyxd/SiriPro"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
